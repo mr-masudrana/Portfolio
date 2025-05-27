@@ -140,7 +140,7 @@ function About() {
         {/* Left - Image */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="./masudrana.jpg"
+            src="./masudrana.png"
             alt="Profile"
             className="rounded-full w-64 h-64 object-cover shadow-lg"
           />
